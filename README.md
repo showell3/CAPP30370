@@ -1,6 +1,8 @@
-# Erik Runyon
+# Sonia
 
-- Major(s)
-- Year (Junior, Senior, etc.)
+- BA Media Studies, English 
+- MA Comparative Literature
+- PhD English and Digital Humanities
+- Postdoctoral Fellow
 
-![Erik Runyon](erik-runyon.jpg)
+![Sonia Howell](Sonia_Howell.jpg)
